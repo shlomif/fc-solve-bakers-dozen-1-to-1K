@@ -1,0 +1,146 @@
+IDX=37
+Verdict: Solved ; Iters: 154354 ; Length: 72
+IDX=46
+Verdict: Solved ; Iters: 151860 ; Length: 128
+IDX=74
+Verdict: Solved ; Iters: 2261288 ; Length: 90
+IDX=78
+Verdict: Solved ; Iters: 155602 ; Length: 72
+IDX=79
+Verdict: Solved ; Iters: 140866 ; Length: 123
+IDX=93
+Verdict: Solved ; Iters: 329738 ; Length: 163
+IDX=100
+Verdict: Solved ; Iters: 2004572 ; Length: 73
+IDX=134
+Verdict: Solved ; Iters: 320002 ; Length: 173
+IDX=154
+Verdict: Solved ; Iters: 488472 ; Length: 82
+IDX=185
+Verdict: Solved ; Iters: 140596 ; Length: 113
+IDX=188
+Verdict: Solved ; Iters: 1974244 ; Length: 143
+IDX=192
+Verdict: Solved ; Iters: 152253 ; Length: 104
+IDX=206
+Verdict: Solved ; Iters: 152603 ; Length: 86
+IDX=210
+Verdict: Solved ; Iters: 152724 ; Length: 115
+IDX=216
+Verdict: Solved ; Iters: 136106 ; Length: 72
+IDX=219
+Verdict: Solved ; Iters: 153284 ; Length: 192
+IDX=238
+Verdict: Intractable ; Iters: 15000000 ; Length: 0
+IDX=247
+Verdict: Solved ; Iters: 167630 ; Length: 78
+IDX=248
+Verdict: Solved ; Iters: 1149137 ; Length: 147
+IDX=290
+Verdict: Solved ; Iters: 156095 ; Length: 212
+IDX=297
+Verdict: Solved ; Iters: 494825 ; Length: 175
+IDX=300
+Verdict: Solved ; Iters: 1326787 ; Length: 124
+IDX=306
+Verdict: Solved ; Iters: 158011 ; Length: 190
+IDX=319
+Verdict: Solved ; Iters: 480610 ; Length: 87
+IDX=333
+Verdict: Solved ; Iters: 156721 ; Length: 109
+IDX=336
+Verdict: Solved ; Iters: 147266 ; Length: 70
+IDX=342
+Verdict: Solved ; Iters: 145197 ; Length: 78
+IDX=381
+Verdict: Solved ; Iters: 485964 ; Length: 129
+IDX=417
+Verdict: Intractable ; Iters: 15000000 ; Length: 0
+IDX=448
+Verdict: Solved ; Iters: 157908 ; Length: 121
+IDX=454
+Verdict: Solved ; Iters: 2970285 ; Length: 92
+IDX=462
+Verdict: Solved ; Iters: 660114 ; Length: 142
+IDX=464
+Verdict: Solved ; Iters: 326960 ; Length: 181
+IDX=476
+Verdict: Solved ; Iters: 155318 ; Length: 148
+IDX=477
+Verdict: Intractable ; Iters: 15000000 ; Length: 0
+IDX=480
+Verdict: Solved ; Iters: 156633 ; Length: 71
+IDX=506
+Verdict: Solved ; Iters: 7604952 ; Length: 147
+IDX=520
+Verdict: Solved ; Iters: 140980 ; Length: 88
+IDX=537
+Verdict: Solved ; Iters: 145371 ; Length: 114
+IDX=553
+Verdict: Solved ; Iters: 143892 ; Length: 88
+IDX=554
+Verdict: Solved ; Iters: 157286 ; Length: 133
+IDX=558
+Verdict: Solved ; Iters: 160206 ; Length: 73
+IDX=578
+Verdict: Solved ; Iters: 124800 ; Length: 69
+IDX=607
+Verdict: Solved ; Iters: 144627 ; Length: 71
+IDX=650
+Verdict: Solved ; Iters: 6635844 ; Length: 87
+IDX=664
+Verdict: Solved ; Iters: 1151117 ; Length: 164
+IDX=677
+Verdict: Solved ; Iters: 149629 ; Length: 68
+IDX=715
+Verdict: Solved ; Iters: 158458 ; Length: 117
+IDX=745
+Verdict: Solved ; Iters: 151783 ; Length: 73
+IDX=763
+Verdict: Solved ; Iters: 151857 ; Length: 78
+IDX=764
+Verdict: Solved ; Iters: 122488 ; Length: 67
+IDX=766
+Verdict: Solved ; Iters: 142632 ; Length: 61
+IDX=804
+Verdict: Solved ; Iters: 163412 ; Length: 97
+IDX=817
+Verdict: Solved ; Iters: 151500 ; Length: 80
+IDX=822
+Verdict: Solved ; Iters: 154397 ; Length: 77
+IDX=835
+Verdict: Solved ; Iters: 153923 ; Length: 80
+IDX=837
+Verdict: Solved ; Iters: 157892 ; Length: 139
+IDX=844
+Verdict: Solved ; Iters: 165990 ; Length: 74
+IDX=846
+Verdict: Solved ; Iters: 163208 ; Length: 100
+IDX=860
+Verdict: Solved ; Iters: 158260 ; Length: 105
+IDX=862
+Verdict: Solved ; Iters: 331448 ; Length: 76
+IDX=866
+Verdict: Solved ; Iters: 154022 ; Length: 77
+IDX=871
+Verdict: Solved ; Iters: 7914324 ; Length: 78
+IDX=878
+Verdict: Solved ; Iters: 500002 ; Length: 78
+IDX=908
+Verdict: Solved ; Iters: 148871 ; Length: 66
+IDX=922
+Verdict: Solved ; Iters: 6780834 ; Length: 296
+IDX=926
+Verdict: Solved ; Iters: 489506 ; Length: 263
+IDX=930
+Verdict: Solved ; Iters: 319216 ; Length: 147
+IDX=944
+Verdict: Solved ; Iters: 1163752 ; Length: 80
+IDX=949
+Verdict: Solved ; Iters: 156159 ; Length: 128
+IDX=950
+Verdict: Solved ; Iters: 145972 ; Length: 100
+IDX=952
+Verdict: Intractable ; Iters: 15000000 ; Length: 0
+IDX=969
+Verdict: Solved ; Iters: 8290574 ; Length: 191

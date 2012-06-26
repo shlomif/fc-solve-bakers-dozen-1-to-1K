@@ -1,0 +1,5001 @@
+START_T=1340202301.564420316
+1:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1527819 states.
+T=1340202318.364932390
+2:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1583095 states.
+T=1340202342.507317226
+3:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1543323 states.
+T=1340202355.519659366
+4:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1815368 states.
+T=1340202372.733712865
+5:
+This game is solveable.
+Total number of states checked is 112006.
+This scan generated 113005 states.
+T=1340202374.116189672
+6:
+This game is solveable.
+Total number of states checked is 541526.
+This scan generated 710366 states.
+T=1340202380.143163637
+7:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2739751 states.
+T=1340202411.855753638
+8:
+This game is solveable.
+Total number of states checked is 60684.
+This scan generated 64289 states.
+T=1340202412.433869136
+9:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500804 states.
+T=1340202423.210498623
+10:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1531586 states.
+T=1340202438.062225876
+11:
+This game is solveable.
+Total number of states checked is 9230.
+This scan generated 9767 states.
+T=1340202438.173810051
+12:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501250 states.
+T=1340202456.809655079
+13:
+This game is solveable.
+Total number of states checked is 2560.
+This scan generated 3458 states.
+T=1340202456.853016210
+14:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506324 states.
+T=1340202496.463450993
+15:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1611856 states.
+T=1340202514.411574373
+16:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1566178 states.
+T=1340202535.171557039
+17:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1895570 states.
+T=1340202548.353396054
+18:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508371 states.
+T=1340202562.558404674
+19:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1505999 states.
+T=1340202589.452806565
+20:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1797698 states.
+T=1340202606.955740754
+21:
+This game is solveable.
+Total number of states checked is 26997.
+This scan generated 28171 states.
+T=1340202607.375644516
+22:
+This game is solveable.
+Total number of states checked is 376572.
+This scan generated 378311 states.
+T=1340202611.193219908
+23:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1519355 states.
+T=1340202626.898439380
+24:
+This game is solveable.
+Total number of states checked is 234689.
+This scan generated 297834 states.
+T=1340202629.389065518
+25:
+This game is solveable.
+Total number of states checked is 49506.
+This scan generated 50446 states.
+T=1340202630.576240472
+26:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1538169 states.
+T=1340202661.627777884
+27:
+This game is solveable.
+Total number of states checked is 34629.
+This scan generated 35160 states.
+T=1340202661.956239368
+28:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1682423 states.
+T=1340202677.535641303
+29:
+This game is solveable.
+Total number of states checked is 11204.
+This scan generated 12185 states.
+T=1340202677.769041338
+30:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1512808 states.
+T=1340202700.388760008
+31:
+This game is solveable.
+Total number of states checked is 99738.
+This scan generated 113565 states.
+T=1340202701.686401477
+32:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1588890 states.
+T=1340202715.945921117
+33:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1609925 states.
+T=1340202728.151840871
+34:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 3021430 states.
+T=1340202755.108154358
+35:
+This game is solveable.
+Total number of states checked is 128552.
+This scan generated 129462 states.
+T=1340202756.809198299
+36:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1864168 states.
+T=1340202782.586588445
+37:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1515337 states.
+T=1340202804.532150205
+38:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1520112 states.
+T=1340202815.257850122
+39:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1769399 states.
+T=1340202831.074528247
+40:
+This game is solveable.
+Total number of states checked is 82324.
+This scan generated 106028 states.
+T=1340202832.327623598
+41:
+This game is solveable.
+Total number of states checked is 743.
+This scan generated 1266 states.
+T=1340202832.357770378
+42:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1659838 states.
+T=1340202853.339617422
+43:
+This game is solveable.
+Total number of states checked is 212299.
+This scan generated 213602 states.
+T=1340202856.140937545
+44:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1830666 states.
+T=1340202870.106787068
+45:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503171 states.
+T=1340202886.981383745
+46:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1583807 states.
+T=1340202906.062521040
+47:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1517830 states.
+T=1340202923.584527637
+48:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1597943 states.
+T=1340202938.564308734
+49:
+This game is solveable.
+Total number of states checked is 18805.
+This scan generated 19330 states.
+T=1340202938.968065294
+50:
+This game is solveable.
+Total number of states checked is 1272708.
+This scan generated 1276177 states.
+T=1340202953.745299336
+51:
+This game is solveable.
+Total number of states checked is 7642.
+This scan generated 8416 states.
+T=1340202953.821823829
+52:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1926632 states.
+T=1340202975.198952115
+53:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1578516 states.
+T=1340202995.624712664
+54:
+This game is solveable.
+Total number of states checked is 840524.
+This scan generated 876882 states.
+T=1340203008.812222837
+55:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1744227 states.
+T=1340203022.689478151
+56:
+This game is solveable.
+Total number of states checked is 1390959.
+This scan generated 1396060 states.
+T=1340203038.649734986
+57:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1792981 states.
+T=1340203060.215293277
+58:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1540662 states.
+T=1340203077.450252624
+59:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500462 states.
+T=1340203091.346185317
+60:
+This game is solveable.
+Total number of states checked is 323309.
+This scan generated 324477 states.
+T=1340203094.809998554
+61:
+This game is solveable.
+Total number of states checked is 239653.
+This scan generated 284619 states.
+T=1340203097.331254211
+62:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1733583 states.
+T=1340203117.652630084
+63:
+This game is solveable.
+Total number of states checked is 10591.
+This scan generated 11116 states.
+T=1340203117.804181646
+64:
+I could not solve this game.
+Total number of states checked is 8448.
+This scan generated 8448 states.
+T=1340203117.884296303
+65:
+This game is solveable.
+Total number of states checked is 25474.
+This scan generated 28166 states.
+T=1340203118.135722684
+66:
+This game is solveable.
+Total number of states checked is 943387.
+This scan generated 945000 states.
+T=1340203126.383891567
+67:
+This game is solveable.
+Total number of states checked is 6462.
+This scan generated 6841 states.
+T=1340203126.486239530
+68:
+This game is solveable.
+Total number of states checked is 428612.
+This scan generated 429344 states.
+T=1340203133.138933541
+69:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1545405 states.
+T=1340203149.434169307
+70:
+This game is solveable.
+Total number of states checked is 37731.
+This scan generated 39580 states.
+T=1340203149.833078763
+71:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1612452 states.
+T=1340203172.924484041
+72:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1504540 states.
+T=1340203185.226043944
+73:
+This game is solveable.
+Total number of states checked is 295883.
+This scan generated 296349 states.
+T=1340203188.820886424
+74:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1669459 states.
+T=1340203215.577443452
+75:
+This game is solveable.
+Total number of states checked is 163826.
+This scan generated 164911 states.
+T=1340203218.197728035
+76:
+This game is solveable.
+Total number of states checked is 314412.
+This scan generated 415088 states.
+T=1340203222.271124837
+77:
+This game is solveable.
+Total number of states checked is 10040.
+This scan generated 10854 states.
+T=1340203222.374555348
+78:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502338 states.
+T=1340203242.946243949
+79:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1628049 states.
+T=1340203257.293171918
+80:
+This game is solveable.
+Total number of states checked is 33915.
+This scan generated 36352 states.
+T=1340203257.810633322
+81:
+This game is solveable.
+Total number of states checked is 143.
+This scan generated 1068 states.
+T=1340203257.836882269
+82:
+This game is solveable.
+Total number of states checked is 44102.
+This scan generated 45201 states.
+T=1340203258.303591585
+83:
+This game is solveable.
+Total number of states checked is 423.
+This scan generated 1323 states.
+T=1340203258.333678633
+84:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2556232 states.
+T=1340203278.443195595
+85:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1537459 states.
+T=1340203295.081256322
+86:
+This game is solveable.
+Total number of states checked is 853961.
+This scan generated 854729 states.
+T=1340203302.564961012
+87:
+This game is solveable.
+Total number of states checked is 46433.
+This scan generated 50831 states.
+T=1340203303.049113156
+88:
+This game is solveable.
+Total number of states checked is 36710.
+This scan generated 38610 states.
+T=1340203303.457084305
+89:
+This game is solveable.
+Total number of states checked is 22135.
+This scan generated 23193 states.
+T=1340203303.689656920
+90:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1528339 states.
+T=1340203318.173987213
+91:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1504800 states.
+T=1340203342.329995969
+92:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1524654 states.
+T=1340203361.969586741
+93:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501519 states.
+T=1340203384.420102192
+94:
+This game is solveable.
+Total number of states checked is 25342.
+This scan generated 27076 states.
+T=1340203384.799422545
+95:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2001651 states.
+T=1340203402.239258631
+96:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1545435 states.
+T=1340203420.302299538
+97:
+This game is solveable.
+Total number of states checked is 2584.
+This scan generated 3270 states.
+T=1340203420.362885729
+98:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1543790 states.
+T=1340203429.854801384
+99:
+This game is solveable.
+Total number of states checked is 93196.
+This scan generated 96614 states.
+T=1340203431.102658100
+100:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1570619 states.
+T=1340203465.827452766
+101:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1524219 states.
+T=1340203488.045865009
+102:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1515469 states.
+T=1340203507.658252034
+103:
+This game is solveable.
+Total number of states checked is 390611.
+This scan generated 391647 states.
+T=1340203513.179340021
+104:
+This game is solveable.
+Total number of states checked is 7110.
+This scan generated 7482 states.
+T=1340203513.275229152
+105:
+This game is solveable.
+Total number of states checked is 16521.
+This scan generated 19712 states.
+T=1340203513.456551450
+106:
+This game is solveable.
+Total number of states checked is 103.
+This scan generated 500 states.
+T=1340203513.481792610
+107:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1854873 states.
+T=1340203529.900329752
+108:
+This game is solveable.
+Total number of states checked is 323475.
+This scan generated 392820 states.
+T=1340203532.341280283
+109:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2272876 states.
+T=1340203546.881762369
+110:
+This game is solveable.
+Total number of states checked is 520.
+This scan generated 928 states.
+T=1340203546.908824790
+111:
+This game is solveable.
+Total number of states checked is 12431.
+This scan generated 13309 states.
+T=1340203547.066856169
+112:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1510632 states.
+T=1340203571.722726269
+113:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1544870 states.
+T=1340203583.032799683
+114:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501077 states.
+T=1340203612.310634014
+115:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1521145 states.
+T=1340203630.163250432
+116:
+This game is solveable.
+Total number of states checked is 57813.
+This scan generated 60429 states.
+T=1340203630.893698575
+117:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1509476 states.
+T=1340203654.136894325
+118:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1947627 states.
+T=1340203673.684712640
+119:
+This game is solveable.
+Total number of states checked is 60.
+This scan generated 535 states.
+T=1340203673.709055251
+120:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1714769 states.
+T=1340203697.298653371
+121:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1509526 states.
+T=1340203715.169409718
+122:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1534957 states.
+T=1340203745.427203765
+123:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500595 states.
+T=1340203770.599796647
+124:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1574387 states.
+T=1340203790.049465786
+125:
+This game is solveable.
+Total number of states checked is 4407.
+This scan generated 4757 states.
+T=1340203790.108684096
+126:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1951094 states.
+T=1340203805.359239858
+127:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1642892 states.
+T=1340203828.116643908
+128:
+This game is solveable.
+Total number of states checked is 974502.
+This scan generated 1060224 states.
+T=1340203841.378139357
+129:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1529468 states.
+T=1340203865.200665392
+130:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2003290 states.
+T=1340203879.613324344
+131:
+This game is solveable.
+Total number of states checked is 14654.
+This scan generated 16308 states.
+T=1340203879.867257832
+132:
+This game is solveable.
+Total number of states checked is 30240.
+This scan generated 31606 states.
+T=1340203880.495789751
+133:
+This game is solveable.
+Total number of states checked is 76.
+This scan generated 811 states.
+T=1340203880.520626551
+134:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2171993 states.
+T=1340203913.858905459
+135:
+This game is solveable.
+Total number of states checked is 16302.
+This scan generated 17010 states.
+T=1340203914.019608582
+136:
+This game is solveable.
+Total number of states checked is 1578.
+This scan generated 2453 states.
+T=1340203914.057449065
+137:
+This game is solveable.
+Total number of states checked is 130.
+This scan generated 651 states.
+T=1340203914.083278860
+138:
+This game is solveable.
+Total number of states checked is 131886.
+This scan generated 154140 states.
+T=1340203916.452752938
+139:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1507771 states.
+T=1340203927.866492372
+140:
+This game is solveable.
+Total number of states checked is 59.
+This scan generated 498 states.
+T=1340203927.891719797
+141:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1556890 states.
+T=1340203946.576113004
+142:
+This game is solveable.
+Total number of states checked is 392761.
+This scan generated 393164 states.
+T=1340203949.436220867
+143:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1682157 states.
+T=1340203961.940890887
+144:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506731 states.
+T=1340203974.572743693
+145:
+This game is solveable.
+Total number of states checked is 1096548.
+This scan generated 1540601 states.
+T=1340203985.257051915
+146:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501610 states.
+T=1340203999.235683852
+147:
+This game is solveable.
+Total number of states checked is 341.
+This scan generated 1168 states.
+T=1340203999.262994753
+148:
+This game is solveable.
+Total number of states checked is 4178.
+This scan generated 4619 states.
+T=1340203999.310448283
+149:
+This game is solveable.
+Total number of states checked is 392.
+This scan generated 1114 states.
+T=1340203999.337719265
+150:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1512846 states.
+T=1340204024.623824354
+151:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1532742 states.
+T=1340204050.065098641
+152:
+This game is solveable.
+Total number of states checked is 245026.
+This scan generated 247255 states.
+T=1340204054.279205381
+153:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502106 states.
+T=1340204076.373130217
+154:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1957166 states.
+T=1340204102.215686014
+155:
+This game is solveable.
+Total number of states checked is 22996.
+This scan generated 28441 states.
+T=1340204102.498142062
+156:
+This game is solveable.
+Total number of states checked is 1303171.
+This scan generated 1467255 states.
+T=1340204111.687722001
+157:
+This game is solveable.
+Total number of states checked is 18425.
+This scan generated 20695 states.
+T=1340204111.898297049
+158:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1514450 states.
+T=1340204133.834188846
+159:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501742 states.
+T=1340204155.863296631
+160:
+This game is solveable.
+Total number of states checked is 3166.
+This scan generated 3651 states.
+T=1340204155.905809666
+161:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500423 states.
+T=1340204171.071446874
+162:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1538443 states.
+T=1340204184.709065807
+163:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1504466 states.
+T=1340204206.664678023
+164:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2321820 states.
+T=1340204224.836543531
+165:
+This game is solveable.
+Total number of states checked is 198972.
+This scan generated 200158 states.
+T=1340204227.039933325
+166:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1892869 states.
+T=1340204246.048576997
+167:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2041297 states.
+T=1340204261.658580069
+168:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1982579 states.
+T=1340204281.285275358
+169:
+This game is solveable.
+Total number of states checked is 293.
+This scan generated 614 states.
+T=1340204281.310723182
+170:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2311054 states.
+T=1340204300.548416884
+171:
+This game is solveable.
+Total number of states checked is 120592.
+This scan generated 121205 states.
+T=1340204301.984241443
+172:
+This game is solveable.
+Total number of states checked is 48.
+This scan generated 413 states.
+T=1340204302.008270984
+173:
+This game is solveable.
+Total number of states checked is 31846.
+This scan generated 32613 states.
+T=1340204302.531370672
+174:
+This game is solveable.
+Total number of states checked is 628024.
+This scan generated 630291 states.
+T=1340204311.809141283
+175:
+This game is solveable.
+Total number of states checked is 186975.
+This scan generated 188712 states.
+T=1340204314.800582425
+176:
+This game is solveable.
+Total number of states checked is 1108791.
+This scan generated 1134753 states.
+T=1340204324.675911410
+177:
+This game is solveable.
+Total number of states checked is 140661.
+This scan generated 141631 states.
+T=1340204326.262582028
+178:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2127697 states.
+T=1340204344.361728909
+179:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1529345 states.
+T=1340204368.786251116
+180:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2120248 states.
+T=1340204383.939739501
+181:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1758944 states.
+T=1340204399.450916475
+182:
+This game is solveable.
+Total number of states checked is 281328.
+This scan generated 282434 states.
+T=1340204402.437286273
+183:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1577548 states.
+T=1340204417.371891081
+184:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2197339 states.
+T=1340204427.532620305
+185:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1542812 states.
+T=1340204455.294753400
+186:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1584976 states.
+T=1340204479.989630990
+187:
+This game is solveable.
+Total number of states checked is 123013.
+This scan generated 142449 states.
+T=1340204481.825615041
+188:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1609168 states.
+T=1340204499.709564968
+189:
+This game is solveable.
+Total number of states checked is 10285.
+This scan generated 12551 states.
+T=1340204499.857038391
+190:
+This game is solveable.
+Total number of states checked is 16198.
+This scan generated 16603 states.
+T=1340204500.054009534
+191:
+This game is solveable.
+Total number of states checked is 217.
+This scan generated 408 states.
+T=1340204500.078401173
+192:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1593408 states.
+T=1340204529.879790866
+193:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2201630 states.
+T=1340204556.681349247
+194:
+This game is solveable.
+Total number of states checked is 292332.
+This scan generated 296308 states.
+T=1340204559.158404398
+195:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1762746 states.
+T=1340204578.752469880
+196:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501910 states.
+T=1340204607.926492474
+197:
+This game is solveable.
+Total number of states checked is 12375.
+This scan generated 17086 states.
+T=1340204608.063654915
+198:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2746786 states.
+T=1340204633.821789662
+199:
+This game is solveable.
+Total number of states checked is 17481.
+This scan generated 17949 states.
+T=1340204633.972471756
+200:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1511424 states.
+T=1340204658.437576970
+201:
+This game is solveable.
+Total number of states checked is 104326.
+This scan generated 104946 states.
+T=1340204659.125189084
+202:
+This game is solveable.
+Total number of states checked is 145535.
+This scan generated 151769 states.
+T=1340204660.813747530
+203:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502320 states.
+T=1340204671.883755094
+204:
+This game is solveable.
+Total number of states checked is 96618.
+This scan generated 96979 states.
+T=1340204673.215694055
+205:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503387 states.
+T=1340204698.820419821
+206:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1520610 states.
+T=1340204725.091179354
+207:
+This game is solveable.
+Total number of states checked is 25267.
+This scan generated 28671 states.
+T=1340204725.318559639
+208:
+This game is solveable.
+Total number of states checked is 188625.
+This scan generated 189165 states.
+T=1340204726.799616417
+209:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1549868 states.
+T=1340204744.716270103
+210:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503351 states.
+T=1340204768.619179942
+211:
+This game is solveable.
+Total number of states checked is 821115.
+This scan generated 1186487 states.
+T=1340204789.509360223
+212:
+This game is solveable.
+Total number of states checked is 1479416.
+This scan generated 1480563 states.
+T=1340204805.445460215
+213:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1521986 states.
+T=1340204824.761813807
+214:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2134825 states.
+T=1340204853.740561240
+215:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1577550 states.
+T=1340204873.381704651
+216:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1631872 states.
+T=1340204894.734238081
+217:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508913 states.
+T=1340204910.377815523
+218:
+This game is solveable.
+Total number of states checked is 14388.
+This scan generated 15074 states.
+T=1340204910.490433956
+219:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502018 states.
+T=1340204935.145698129
+220:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501226 states.
+T=1340204952.988187628
+221:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1541984 states.
+T=1340204967.212734832
+222:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501681 states.
+T=1340204987.175088388
+223:
+This game is solveable.
+Total number of states checked is 169.
+This scan generated 557 states.
+T=1340204987.200614428
+224:
+This game is solveable.
+Total number of states checked is 345.
+This scan generated 689 states.
+T=1340204987.227112305
+225:
+This game is solveable.
+Total number of states checked is 24257.
+This scan generated 25060 states.
+T=1340204987.440802021
+226:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1540207 states.
+T=1340205013.876931357
+227:
+This game is solveable.
+Total number of states checked is 448.
+This scan generated 974 states.
+T=1340205013.904356888
+228:
+This game is solveable.
+Total number of states checked is 613614.
+This scan generated 743854 states.
+T=1340205020.541183377
+229:
+This game is solveable.
+Total number of states checked is 1267.
+This scan generated 1778 states.
+T=1340205020.577457659
+230:
+This game is solveable.
+Total number of states checked is 364341.
+This scan generated 420738 states.
+T=1340205024.781900787
+231:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1512795 states.
+T=1340205065.153379959
+232:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501373 states.
+T=1340205082.579938088
+233:
+This game is solveable.
+Total number of states checked is 219422.
+This scan generated 225634 states.
+T=1340205085.294402168
+234:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1509695 states.
+T=1340205101.090809232
+235:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1526721 states.
+T=1340205123.817259147
+236:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1665518 states.
+T=1340205153.027307508
+237:
+This game is solveable.
+Total number of states checked is 1273768.
+This scan generated 1380371 states.
+T=1340205175.123632601
+238:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1687075 states.
+T=1340205201.704568997
+239:
+This game is solveable.
+Total number of states checked is 4810.
+This scan generated 5503 states.
+T=1340205201.775575374
+240:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2903955 states.
+T=1340205229.754577526
+241:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500588 states.
+T=1340205250.135772637
+242:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1798809 states.
+T=1340205267.011167986
+243:
+This game is solveable.
+Total number of states checked is 211709.
+This scan generated 212490 states.
+T=1340205270.124904565
+244:
+This game is solveable.
+Total number of states checked is 94481.
+This scan generated 95308 states.
+T=1340205270.815262341
+245:
+This game is solveable.
+Total number of states checked is 337847.
+This scan generated 339686 states.
+T=1340205275.355133574
+246:
+This game is solveable.
+Total number of states checked is 113573.
+This scan generated 114790 states.
+T=1340205276.272314842
+247:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1513719 states.
+T=1340205293.097759474
+248:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1547184 states.
+T=1340205322.595810690
+249:
+This game is solveable.
+Total number of states checked is 653306.
+This scan generated 671081 states.
+T=1340205330.396701880
+250:
+This game is solveable.
+Total number of states checked is 42791.
+This scan generated 48229 states.
+T=1340205330.721622453
+251:
+This game is solveable.
+Total number of states checked is 355427.
+This scan generated 457360 states.
+T=1340205335.271340075
+252:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2093371 states.
+T=1340205365.527696315
+253:
+This game is solveable.
+Total number of states checked is 3505.
+This scan generated 4684 states.
+T=1340205365.591908955
+254:
+This game is solveable.
+Total number of states checked is 7424.
+This scan generated 9102 states.
+T=1340205365.684610162
+255:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502595 states.
+T=1340205385.522897018
+256:
+This game is solveable.
+Total number of states checked is 74064.
+This scan generated 88406 states.
+T=1340205386.361928512
+257:
+This game is solveable.
+Total number of states checked is 46224.
+This scan generated 47144 states.
+T=1340205386.786942583
+258:
+This game is solveable.
+Total number of states checked is 84193.
+This scan generated 90004 states.
+T=1340205388.140909554
+259:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2217644 states.
+T=1340205415.201589939
+260:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2145635 states.
+T=1340205436.867460173
+261:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1759052 states.
+T=1340205454.196279021
+262:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1553821 states.
+T=1340205469.354779407
+263:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1854975 states.
+T=1340205494.037467060
+264:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2156124 states.
+T=1340205509.339892704
+265:
+This game is solveable.
+Total number of states checked is 5423.
+This scan generated 6635 states.
+T=1340205509.392212817
+266:
+This game is solveable.
+Total number of states checked is 2825.
+This scan generated 3437 states.
+T=1340205509.458826226
+267:
+This game is solveable.
+Total number of states checked is 5099.
+This scan generated 5413 states.
+T=1340205509.515189244
+268:
+This game is solveable.
+Total number of states checked is 2352.
+This scan generated 2730 states.
+T=1340205509.552979807
+269:
+This game is solveable.
+Total number of states checked is 35997.
+This scan generated 36786 states.
+T=1340205510.035431208
+270:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501135 states.
+T=1340205533.070113991
+271:
+This game is solveable.
+Total number of states checked is 516392.
+This scan generated 517146 states.
+T=1340205535.654247139
+272:
+This game is solveable.
+Total number of states checked is 26315.
+This scan generated 31150 states.
+T=1340205536.006578831
+273:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501538 states.
+T=1340205551.385612553
+274:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1517170 states.
+T=1340205575.652566279
+275:
+This game is solveable.
+Total number of states checked is 418.
+This scan generated 883 states.
+T=1340205575.681355207
+276:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2359544 states.
+T=1340205603.362839150
+277:
+This game is solveable.
+Total number of states checked is 508483.
+This scan generated 888264 states.
+T=1340205612.208619853
+278:
+This game is solveable.
+Total number of states checked is 17204.
+This scan generated 19569 states.
+T=1340205612.492212717
+279:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503202 states.
+T=1340205642.280030655
+280:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1896201 states.
+T=1340205662.826237975
+281:
+This game is solveable.
+Total number of states checked is 64.
+This scan generated 417 states.
+T=1340205662.850487910
+282:
+This game is solveable.
+Total number of states checked is 5709.
+This scan generated 7622 states.
+T=1340205662.918476875
+283:
+This game is solveable.
+Total number of states checked is 35950.
+This scan generated 36733 states.
+T=1340205663.158205496
+284:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1554799 states.
+T=1340205679.811604459
+285:
+This game is solveable.
+Total number of states checked is 187.
+This scan generated 605 states.
+T=1340205679.836732294
+286:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1521449 states.
+T=1340205704.916277055
+287:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2142272 states.
+T=1340205730.435115150
+288:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1535094 states.
+T=1340205751.493299105
+289:
+This game is solveable.
+Total number of states checked is 208.
+This scan generated 582 states.
+T=1340205751.518309890
+290:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1824501 states.
+T=1340205768.297659725
+291:
+This game is solveable.
+Total number of states checked is 266510.
+This scan generated 267046 states.
+T=1340205770.184556781
+292:
+This game is solveable.
+Total number of states checked is 12499.
+This scan generated 16626 states.
+T=1340205770.356601411
+293:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1530758 states.
+T=1340205790.325768253
+294:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503356 states.
+T=1340205808.113662670
+295:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1528193 states.
+T=1340205826.738514870
+296:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1524849 states.
+T=1340205838.849229261
+297:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1507949 states.
+T=1340205858.289406502
+298:
+This game is solveable.
+Total number of states checked is 919016.
+This scan generated 920371 states.
+T=1340205863.881129751
+299:
+This game is solveable.
+Total number of states checked is 18440.
+This scan generated 19134 states.
+T=1340205864.108609340
+300:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1512348 states.
+T=1340205900.811482639
+301:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1514039 states.
+T=1340205913.979792942
+302:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1714175 states.
+T=1340205931.728296992
+303:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2221091 states.
+T=1340205954.682372139
+304:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1988705 states.
+T=1340205973.982395048
+305:
+This game is solveable.
+Total number of states checked is 337.
+This scan generated 804 states.
+T=1340205974.008354916
+306:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1541046 states.
+T=1340205997.504684335
+307:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506740 states.
+T=1340206019.039924072
+308:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1515016 states.
+T=1340206033.294269576
+309:
+This game is solveable.
+Total number of states checked is 17622.
+This scan generated 18123 states.
+T=1340206033.446757078
+310:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1564009 states.
+T=1340206060.023684219
+311:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2081039 states.
+T=1340206077.335612950
+312:
+This game is solveable.
+Total number of states checked is 130264.
+This scan generated 130797 states.
+T=1340206079.129876031
+313:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1628397 states.
+T=1340206091.134248284
+314:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1584608 states.
+T=1340206114.627777956
+315:
+This game is solveable.
+Total number of states checked is 139281.
+This scan generated 139801 states.
+T=1340206116.365395824
+316:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1512299 states.
+T=1340206129.856146258
+317:
+This game is solveable.
+Total number of states checked is 777048.
+This scan generated 780380 states.
+T=1340206146.324256198
+318:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1774755 states.
+T=1340206171.022166698
+319:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1867144 states.
+T=1340206196.657772480
+320:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1514914 states.
+T=1340206231.597743725
+321:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508264 states.
+T=1340206252.557661634
+322:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1510273 states.
+T=1340206272.017131929
+323:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501760 states.
+T=1340206295.543142974
+324:
+This game is solveable.
+Total number of states checked is 178373.
+This scan generated 180124 states.
+T=1340206297.996680227
+325:
+This game is solveable.
+Total number of states checked is 2461.
+This scan generated 4207 states.
+T=1340206298.041314533
+326:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1587044 states.
+T=1340206313.233430489
+327:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500810 states.
+T=1340206331.428907448
+328:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502503 states.
+T=1340206341.294036301
+329:
+This game is solveable.
+Total number of states checked is 362999.
+This scan generated 363993 states.
+T=1340206344.088765918
+330:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1519867 states.
+T=1340206370.793090618
+331:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1643741 states.
+T=1340206396.511714138
+332:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1512854 states.
+T=1340206418.468717653
+333:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502119 states.
+T=1340206437.755848454
+334:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506661 states.
+T=1340206453.229467564
+335:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1518749 states.
+T=1340206462.652690586
+336:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2016585 states.
+T=1340206479.919610026
+337:
+This game is solveable.
+Total number of states checked is 67190.
+This scan generated 77250 states.
+T=1340206480.587110028
+338:
+This game is solveable.
+Total number of states checked is 5893.
+This scan generated 7761 states.
+T=1340206480.698484236
+339:
+This game is solveable.
+Total number of states checked is 337.
+This scan generated 1256 states.
+T=1340206480.725595565
+340:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1516992 states.
+T=1340206497.099019507
+341:
+This game is solveable.
+Total number of states checked is 1193819.
+This scan generated 1203213 states.
+T=1340206517.954400689
+342:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1545054 states.
+T=1340206529.883138785
+343:
+This game is solveable.
+Total number of states checked is 87.
+This scan generated 405 states.
+T=1340206529.908054880
+344:
+This game is solveable.
+Total number of states checked is 9332.
+This scan generated 10982 states.
+T=1340206530.008780510
+345:
+This game is solveable.
+Total number of states checked is 146292.
+This scan generated 147014 states.
+T=1340206531.088303909
+346:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1529927 states.
+T=1340206543.626588381
+347:
+This game is solveable.
+Total number of states checked is 81.
+This scan generated 467 states.
+T=1340206543.650805904
+348:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1615965 states.
+T=1340206567.530340893
+349:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1689975 states.
+T=1340206585.247734426
+350:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500652 states.
+T=1340206606.449809218
+351:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2227855 states.
+T=1340206631.459372403
+352:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1952012 states.
+T=1340206654.305660577
+353:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502680 states.
+T=1340206677.693909612
+354:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1525906 states.
+T=1340206690.606587825
+355:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1742997 states.
+T=1340206704.587945725
+356:
+This game is solveable.
+Total number of states checked is 17955.
+This scan generated 23395 states.
+T=1340206704.751997673
+357:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1543308 states.
+T=1340206732.508519585
+358:
+This game is solveable.
+Total number of states checked is 546583.
+This scan generated 553309 states.
+T=1340206738.422609373
+359:
+This game is solveable.
+Total number of states checked is 483.
+This scan generated 955 states.
+T=1340206738.450450799
+360:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1627804 states.
+T=1340206771.419612544
+361:
+This game is solveable.
+Total number of states checked is 8025.
+This scan generated 9623 states.
+T=1340206771.518634919
+362:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1511000 states.
+T=1340206798.890458106
+363:
+This game is solveable.
+Total number of states checked is 175453.
+This scan generated 180293 states.
+T=1340206801.267640960
+364:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1588862 states.
+T=1340206836.323098995
+365:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1548694 states.
+T=1340206854.040799815
+366:
+This game is solveable.
+Total number of states checked is 80.
+This scan generated 566 states.
+T=1340206854.066437895
+367:
+This game is solveable.
+Total number of states checked is 91.
+This scan generated 509 states.
+T=1340206854.090949569
+368:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1965401 states.
+T=1340206881.783992272
+369:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502319 states.
+T=1340206895.119467131
+370:
+This game is solveable.
+Total number of states checked is 135908.
+This scan generated 137822 states.
+T=1340206897.498170009
+371:
+This game is solveable.
+Total number of states checked is 23525.
+This scan generated 26816 states.
+T=1340206897.694379704
+372:
+This game is solveable.
+Total number of states checked is 176500.
+This scan generated 176900 states.
+T=1340206900.233662720
+373:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2714030 states.
+T=1340206919.365002568
+374:
+This game is solveable.
+Total number of states checked is 4533.
+This scan generated 5588 states.
+T=1340206919.442671213
+375:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506040 states.
+T=1340206937.090476579
+376:
+This game is solveable.
+Total number of states checked is 1458602.
+This scan generated 1475495 states.
+T=1340206953.745810945
+377:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1546017 states.
+T=1340206976.754158755
+378:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1569505 states.
+T=1340206988.164677653
+379:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1504273 states.
+T=1340207010.841090549
+380:
+This game is solveable.
+Total number of states checked is 93.
+This scan generated 578 states.
+T=1340207010.865755264
+381:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1812812 states.
+T=1340207032.026025837
+382:
+This game is solveable.
+Total number of states checked is 4958.
+This scan generated 5818 states.
+T=1340207032.081664807
+383:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1509114 states.
+T=1340207041.011257255
+384:
+This game is solveable.
+Total number of states checked is 130352.
+This scan generated 131495 states.
+T=1340207042.469764176
+385:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500697 states.
+T=1340207062.455731745
+386:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1809191 states.
+T=1340207085.920410148
+387:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1708029 states.
+T=1340207101.898276946
+388:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1603090 states.
+T=1340207119.540273748
+389:
+This game is solveable.
+Total number of states checked is 36387.
+This scan generated 36888 states.
+T=1340207119.921613085
+390:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1575294 states.
+T=1340207138.494484291
+391:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1511029 states.
+T=1340207153.553147908
+392:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1558276 states.
+T=1340207165.903566709
+393:
+This game is solveable.
+Total number of states checked is 21235.
+This scan generated 27117 states.
+T=1340207166.148560370
+394:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1621843 states.
+T=1340207185.977210227
+395:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1616134 states.
+T=1340207206.476741142
+396:
+This game is solveable.
+Total number of states checked is 73.
+This scan generated 542 states.
+T=1340207206.501724193
+397:
+This game is solveable.
+Total number of states checked is 135105.
+This scan generated 139038 states.
+T=1340207208.031874363
+398:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1510216 states.
+T=1340207219.750673415
+399:
+This game is solveable.
+Total number of states checked is 925.
+This scan generated 1377 states.
+T=1340207219.785590242
+400:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1785523 states.
+T=1340207241.514741970
+401:
+This game is solveable.
+Total number of states checked is 263.
+This scan generated 676 states.
+T=1340207241.541744223
+402:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1531397 states.
+T=1340207255.241436679
+403:
+This game is solveable.
+Total number of states checked is 102533.
+This scan generated 102996 states.
+T=1340207255.822555250
+404:
+This game is solveable.
+Total number of states checked is 33912.
+This scan generated 34374 states.
+T=1340207256.245159904
+405:
+This game is solveable.
+Total number of states checked is 146170.
+This scan generated 153000 states.
+T=1340207258.517337115
+406:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1576201 states.
+T=1340207286.370448357
+407:
+This game is solveable.
+Total number of states checked is 1585.
+This scan generated 2258 states.
+T=1340207286.413711461
+408:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2737232 states.
+T=1340207308.633763626
+409:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1515448 states.
+T=1340207329.875476822
+410:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1513499 states.
+T=1340207348.104880582
+411:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1607777 states.
+T=1340207370.241006381
+412:
+This game is solveable.
+Total number of states checked is 74204.
+This scan generated 74985 states.
+T=1340207371.109731361
+413:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1505114 states.
+T=1340207379.758854966
+414:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503548 states.
+T=1340207401.335161139
+415:
+This game is solveable.
+Total number of states checked is 585.
+This scan generated 1022 states.
+T=1340207401.361587586
+416:
+This game is solveable.
+Total number of states checked is 124.
+This scan generated 854 states.
+T=1340207401.386477458
+417:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501563 states.
+T=1340207427.407265524
+418:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1504790 states.
+T=1340207446.827831961
+419:
+This game is solveable.
+Total number of states checked is 897998.
+This scan generated 898951 states.
+T=1340207455.302816892
+420:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1528608 states.
+T=1340207476.806393213
+421:
+This game is solveable.
+Total number of states checked is 79123.
+This scan generated 81082 states.
+T=1340207477.696270487
+422:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1523165 states.
+T=1340207489.765731074
+423:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500618 states.
+T=1340207505.786341396
+424:
+This game is solveable.
+Total number of states checked is 678285.
+This scan generated 686521 states.
+T=1340207510.224593410
+425:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1525616 states.
+T=1340207530.107300925
+426:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1581035 states.
+T=1340207546.288080890
+427:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1734131 states.
+T=1340207570.470624605
+428:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1872688 states.
+T=1340207605.595561348
+429:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508745 states.
+T=1340207620.846611559
+430:
+This game is solveable.
+Total number of states checked is 427443.
+This scan generated 429643 states.
+T=1340207626.425103290
+431:
+This game is solveable.
+Total number of states checked is 372506.
+This scan generated 373320 states.
+T=1340207630.453083069
+432:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506103 states.
+T=1340207639.671947857
+433:
+This game is solveable.
+Total number of states checked is 19857.
+This scan generated 20661 states.
+T=1340207639.829111034
+434:
+This game is solveable.
+Total number of states checked is 8625.
+This scan generated 9240 states.
+T=1340207639.914174961
+435:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501335 states.
+T=1340207655.029995822
+436:
+This game is solveable.
+Total number of states checked is 21821.
+This scan generated 22431 states.
+T=1340207655.346415944
+437:
+This game is solveable.
+Total number of states checked is 400921.
+This scan generated 402014 states.
+T=1340207659.930264080
+438:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1526413 states.
+T=1340207678.888289403
+439:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1706215 states.
+T=1340207690.633228400
+440:
+This game is solveable.
+Total number of states checked is 423845.
+This scan generated 446740 states.
+T=1340207697.526127212
+441:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1511251 states.
+T=1340207719.070608875
+442:
+This game is solveable.
+Total number of states checked is 338191.
+This scan generated 350923 states.
+T=1340207722.849525209
+443:
+This game is solveable.
+Total number of states checked is 847701.
+This scan generated 855998 states.
+T=1340207735.627613652
+444:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1512272 states.
+T=1340207759.810591613
+445:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2060707 states.
+T=1340207790.240475293
+446:
+This game is solveable.
+Total number of states checked is 306385.
+This scan generated 390133 states.
+T=1340207795.555469775
+447:
+This game is solveable.
+Total number of states checked is 98.
+This scan generated 519 states.
+T=1340207795.580799590
+448:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1515902 states.
+T=1340207818.620297697
+449:
+This game is solveable.
+Total number of states checked is 25215.
+This scan generated 29004 states.
+T=1340207818.957845991
+450:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1542933 states.
+T=1340207847.220113312
+451:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1557952 states.
+T=1340207869.980028860
+452:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1590859 states.
+T=1340207890.661281316
+453:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1514314 states.
+T=1340207917.980988754
+454:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2362499 states.
+T=1340207952.369142489
+455:
+This game is solveable.
+Total number of states checked is 570913.
+This scan generated 573596 states.
+T=1340207957.109940196
+456:
+This game is solveable.
+Total number of states checked is 37522.
+This scan generated 37985 states.
+T=1340207957.376341321
+457:
+This game is solveable.
+Total number of states checked is 78834.
+This scan generated 99391 states.
+T=1340207958.074268136
+458:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1739448 states.
+T=1340207979.011278664
+459:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1903831 states.
+T=1340208007.110243321
+460:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1582372 states.
+T=1340208019.571424990
+461:
+This game is solveable.
+Total number of states checked is 867910.
+This scan generated 868530 states.
+T=1340208029.329722020
+462:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1616884 states.
+T=1340208040.603415459
+463:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1551962 states.
+T=1340208065.732165383
+464:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1586984 states.
+T=1340208088.280989283
+465:
+This game is solveable.
+Total number of states checked is 32.
+This scan generated 384 states.
+T=1340208088.304788139
+466:
+This game is solveable.
+Total number of states checked is 151860.
+This scan generated 152558 states.
+T=1340208090.420695195
+467:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1614512 states.
+T=1340208116.337956523
+468:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1522745 states.
+T=1340208137.295869385
+469:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1546600 states.
+T=1340208150.346674406
+470:
+This game is solveable.
+Total number of states checked is 70.
+This scan generated 519 states.
+T=1340208150.371519829
+471:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1513963 states.
+T=1340208176.554249953
+472:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1693658 states.
+T=1340208191.481298268
+473:
+This game is solveable.
+Total number of states checked is 99.
+This scan generated 394 states.
+T=1340208191.506307443
+474:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1677708 states.
+T=1340208212.433738221
+475:
+This game is solveable.
+Total number of states checked is 476.
+This scan generated 875 states.
+T=1340208212.461324372
+476:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1551527 states.
+T=1340208235.538809524
+477:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1839938 states.
+T=1340208252.200994142
+478:
+This game is solveable.
+Total number of states checked is 167.
+This scan generated 502 states.
+T=1340208252.225816637
+479:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1674454 states.
+T=1340208285.427480047
+480:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2626051 states.
+T=1340208319.915269938
+481:
+This game is solveable.
+Total number of states checked is 209305.
+This scan generated 210251 states.
+T=1340208321.731756953
+482:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1564159 states.
+T=1340208335.881253410
+483:
+This game is solveable.
+Total number of states checked is 100.
+This scan generated 512 states.
+T=1340208335.906419189
+484:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500978 states.
+T=1340208345.708363301
+485:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1523404 states.
+T=1340208360.937987738
+486:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1534557 states.
+T=1340208374.398411928
+487:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1509772 states.
+T=1340208397.455113552
+488:
+This game is solveable.
+Total number of states checked is 622.
+This scan generated 971 states.
+T=1340208397.484077711
+489:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1668491 states.
+T=1340208429.260929252
+490:
+This game is solveable.
+Total number of states checked is 65.
+This scan generated 680 states.
+T=1340208429.286320466
+491:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1514584 states.
+T=1340208441.905147718
+492:
+This game is solveable.
+Total number of states checked is 53937.
+This scan generated 87053 states.
+T=1340208442.585929907
+493:
+This game is solveable.
+Total number of states checked is 1885.
+This scan generated 2621 states.
+T=1340208442.622289826
+494:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1740144 states.
+T=1340208456.548439189
+495:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1547970 states.
+T=1340208467.444114829
+496:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503458 states.
+T=1340208497.365852998
+497:
+This game is solveable.
+Total number of states checked is 621124.
+This scan generated 623393 states.
+T=1340208505.802776939
+498:
+This game is solveable.
+Total number of states checked is 216712.
+This scan generated 217299 states.
+T=1340208507.914862020
+499:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2858535 states.
+T=1340208532.390381713
+500:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1585816 states.
+T=1340208546.364260873
+501:
+This game is solveable.
+Total number of states checked is 383200.
+This scan generated 384076 states.
+T=1340208550.228765795
+502:
+This game is solveable.
+Total number of states checked is 120.
+This scan generated 387 states.
+T=1340208550.253557505
+503:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1504483 states.
+T=1340208573.027677740
+504:
+This game is solveable.
+Total number of states checked is 24992.
+This scan generated 27798 states.
+T=1340208573.542227818
+505:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1597140 states.
+T=1340208597.411163999
+506:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1557603 states.
+T=1340208613.806721888
+507:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1846801 states.
+T=1340208632.573778030
+508:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1567860 states.
+T=1340208650.543940266
+509:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1661674 states.
+T=1340208663.537255452
+510:
+This game is solveable.
+Total number of states checked is 116867.
+This scan generated 122383 states.
+T=1340208664.855487164
+511:
+This game is solveable.
+Total number of states checked is 460994.
+This scan generated 478098 states.
+T=1340208669.576263317
+512:
+This game is solveable.
+Total number of states checked is 360.
+This scan generated 803 states.
+T=1340208669.602631291
+513:
+This game is solveable.
+Total number of states checked is 108.
+This scan generated 484 states.
+T=1340208669.626892416
+514:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2566347 states.
+T=1340208700.067806895
+515:
+This game is solveable.
+Total number of states checked is 1485.
+This scan generated 1820 states.
+T=1340208700.102374064
+516:
+This game is solveable.
+Total number of states checked is 1071882.
+This scan generated 1147718 states.
+T=1340208711.297722272
+517:
+This game is solveable.
+Total number of states checked is 8912.
+This scan generated 9631 states.
+T=1340208711.389172604
+518:
+This game is solveable.
+Total number of states checked is 346695.
+This scan generated 347701 states.
+T=1340208716.083339967
+519:
+This game is solveable.
+Total number of states checked is 374231.
+This scan generated 377148 states.
+T=1340208720.372214127
+520:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1546209 states.
+T=1340208740.361402958
+521:
+This game is solveable.
+Total number of states checked is 3850.
+This scan generated 4449 states.
+T=1340208740.414334485
+522:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1626693 states.
+T=1340208757.096489791
+523:
+This game is solveable.
+Total number of states checked is 1454.
+This scan generated 2039 states.
+T=1340208757.129014898
+524:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1520391 states.
+T=1340208774.829645712
+525:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1514154 states.
+T=1340208794.829519586
+526:
+This game is solveable.
+Total number of states checked is 22981.
+This scan generated 25703 states.
+T=1340208795.047680121
+527:
+This game is solveable.
+Total number of states checked is 7226.
+This scan generated 8963 states.
+T=1340208795.171431449
+528:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1526941 states.
+T=1340208813.482157837
+529:
+This game is solveable.
+Total number of states checked is 68331.
+This scan generated 69560 states.
+T=1340208814.207039573
+530:
+This game is solveable.
+Total number of states checked is 36384.
+This scan generated 36957 states.
+T=1340208814.533258269
+531:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1599047 states.
+T=1340208837.737751639
+532:
+This game is solveable.
+Total number of states checked is 14002.
+This scan generated 14722 states.
+T=1340208837.866461405
+533:
+This game is solveable.
+Total number of states checked is 47530.
+This scan generated 48039 states.
+T=1340208838.289342599
+534:
+This game is solveable.
+Total number of states checked is 179494.
+This scan generated 238375 states.
+T=1340208839.489357552
+535:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1514185 states.
+T=1340208862.919785114
+536:
+This game is solveable.
+Total number of states checked is 544066.
+This scan generated 561181 states.
+T=1340208869.292668800
+537:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1513993 states.
+T=1340208885.165267115
+538:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1560793 states.
+T=1340208907.125316696
+539:
+This game is solveable.
+Total number of states checked is 95069.
+This scan generated 99060 states.
+T=1340208908.297747677
+540:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1544245 states.
+T=1340208927.535534400
+541:
+This game is solveable.
+Total number of states checked is 7351.
+This scan generated 8499 states.
+T=1340208927.635352357
+542:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1539745 states.
+T=1340208942.263017331
+543:
+This game is solveable.
+Total number of states checked is 8965.
+This scan generated 9458 states.
+T=1340208942.353116521
+544:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506437 states.
+T=1340208957.648512229
+545:
+This game is solveable.
+Total number of states checked is 1092474.
+This scan generated 1093416 states.
+T=1340208969.536803299
+546:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2239568 states.
+T=1340208983.643585834
+547:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500569 states.
+T=1340208997.661810992
+548:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1505141 states.
+T=1340209016.233386590
+549:
+This game is solveable.
+Total number of states checked is 30128.
+This scan generated 31821 states.
+T=1340209016.484248715
+550:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1739542 states.
+T=1340209030.971281774
+551:
+This game is solveable.
+Total number of states checked is 17504.
+This scan generated 18060 states.
+T=1340209031.214863269
+552:
+This game is solveable.
+Total number of states checked is 34.
+This scan generated 309 states.
+T=1340209031.239414979
+553:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506633 states.
+T=1340209048.760266208
+554:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1519946 states.
+T=1340209067.102671725
+555:
+This game is solveable.
+Total number of states checked is 653291.
+This scan generated 654027 states.
+T=1340209078.200372508
+556:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1606920 states.
+T=1340209087.957397197
+557:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1670545 states.
+T=1340209101.941810162
+558:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506263 states.
+T=1340209133.067876520
+559:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506996 states.
+T=1340209158.515043995
+560:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2885758 states.
+T=1340209185.157174719
+561:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2626285 states.
+T=1340209203.386452598
+562:
+This game is solveable.
+Total number of states checked is 39264.
+This scan generated 40525 states.
+T=1340209203.730656356
+563:
+This game is solveable.
+Total number of states checked is 269.
+This scan generated 1817 states.
+T=1340209203.759694315
+564:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1527662 states.
+T=1340209216.478745184
+565:
+This game is solveable.
+Total number of states checked is 1067913.
+This scan generated 1070647 states.
+T=1340209232.245935647
+566:
+This game is solveable.
+Total number of states checked is 29533.
+This scan generated 30051 states.
+T=1340209232.471552957
+567:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1523093 states.
+T=1340209243.126375379
+568:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1504380 states.
+T=1340209258.263296182
+569:
+This game is solveable.
+Total number of states checked is 371502.
+This scan generated 372270 states.
+T=1340209263.655287423
+570:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1525050 states.
+T=1340209281.226867593
+571:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1608821 states.
+T=1340209295.722047720
+572:
+This game is solveable.
+Total number of states checked is 143310.
+This scan generated 153070 states.
+T=1340209297.970307067
+573:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1620419 states.
+T=1340209312.293880761
+574:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1505293 states.
+T=1340209329.171437606
+575:
+This game is solveable.
+Total number of states checked is 3232.
+This scan generated 3948 states.
+T=1340209329.217151178
+576:
+This game is solveable.
+Total number of states checked is 763.
+This scan generated 1267 states.
+T=1340209329.247754496
+577:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1734088 states.
+T=1340209347.971781491
+578:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2541197 states.
+T=1340209373.441741842
+579:
+This game is solveable.
+Total number of states checked is 32852.
+This scan generated 33543 states.
+T=1340209373.823417158
+580:
+This game is solveable.
+Total number of states checked is 66343.
+This scan generated 72026 states.
+T=1340209374.585308457
+581:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1937929 states.
+T=1340209395.175476313
+582:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1549132 states.
+T=1340209412.330818047
+583:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1537693 states.
+T=1340209422.579346486
+584:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2015775 states.
+T=1340209438.429240261
+585:
+This game is solveable.
+Total number of states checked is 14301.
+This scan generated 15259 states.
+T=1340209438.557419279
+586:
+This game is solveable.
+Total number of states checked is 131505.
+This scan generated 132002 states.
+T=1340209439.577489852
+587:
+This game is solveable.
+Total number of states checked is 1777.
+This scan generated 8464 states.
+T=1340209439.627302210
+588:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1525198 states.
+T=1340209457.427810741
+589:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1523925 states.
+T=1340209472.497158155
+590:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1544307 states.
+T=1340209499.893611124
+591:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1514786 states.
+T=1340209515.568282788
+592:
+This game is solveable.
+Total number of states checked is 829.
+This scan generated 1617 states.
+T=1340209515.599195802
+593:
+This game is solveable.
+Total number of states checked is 28519.
+This scan generated 29171 states.
+T=1340209515.874509533
+594:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508395 states.
+T=1340209536.811132248
+595:
+This game is solveable.
+Total number of states checked is 391.
+This scan generated 1073 states.
+T=1340209536.838680399
+596:
+This game is solveable.
+Total number of states checked is 584958.
+This scan generated 608615 states.
+T=1340209542.390809577
+597:
+This game is solveable.
+Total number of states checked is 44399.
+This scan generated 45492 states.
+T=1340209542.683187347
+598:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1564034 states.
+T=1340209562.902322466
+599:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1533578 states.
+T=1340209590.176183097
+600:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1559890 states.
+T=1340209605.567128525
+601:
+This game is solveable.
+Total number of states checked is 29849.
+This scan generated 30293 states.
+T=1340209606.128383504
+602:
+This game is solveable.
+Total number of states checked is 1089.
+This scan generated 1635 states.
+T=1340209606.161699695
+603:
+This game is solveable.
+Total number of states checked is 50061.
+This scan generated 50823 states.
+T=1340209606.741472087
+604:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1510612 states.
+T=1340209627.723829709
+605:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1513257 states.
+T=1340209639.168179305
+606:
+This game is solveable.
+Total number of states checked is 141504.
+This scan generated 145316 states.
+T=1340209641.050455364
+607:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1527462 states.
+T=1340209656.589294001
+608:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1738540 states.
+T=1340209688.211019083
+609:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2331940 states.
+T=1340209715.206040315
+610:
+This game is solveable.
+Total number of states checked is 301458.
+This scan generated 361836 states.
+T=1340209718.001615157
+611:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1850099 states.
+T=1340209738.530732919
+612:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1561752 states.
+T=1340209754.617624145
+613:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1636405 states.
+T=1340209767.271127338
+614:
+This game is solveable.
+Total number of states checked is 747.
+This scan generated 1196 states.
+T=1340209767.298910554
+615:
+This game is solveable.
+Total number of states checked is 805521.
+This scan generated 809698 states.
+T=1340209776.888579077
+616:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1562755 states.
+T=1340209794.316172251
+617:
+This game is solveable.
+Total number of states checked is 37787.
+This scan generated 38348 states.
+T=1340209794.710480211
+618:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1531305 states.
+T=1340209814.118783752
+619:
+This game is solveable.
+Total number of states checked is 3895.
+This scan generated 6207 states.
+T=1340209814.176930255
+620:
+This game is solveable.
+Total number of states checked is 43145.
+This scan generated 44609 states.
+T=1340209814.644604726
+621:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1915285 states.
+T=1340209832.804257218
+622:
+This game is solveable.
+Total number of states checked is 5321.
+This scan generated 6713 states.
+T=1340209832.868876503
+623:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1691326 states.
+T=1340209863.018432736
+624:
+This game is solveable.
+Total number of states checked is 1291465.
+This scan generated 1430379 states.
+T=1340209878.464645932
+625:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508497 states.
+T=1340209891.071481959
+626:
+This game is solveable.
+Total number of states checked is 4982.
+This scan generated 6956 states.
+T=1340209891.145380945
+627:
+This game is solveable.
+Total number of states checked is 1488184.
+This scan generated 1489034 states.
+T=1340209907.510740586
+628:
+This game is solveable.
+Total number of states checked is 1608.
+This scan generated 2264 states.
+T=1340209907.544298783
+629:
+This game is solveable.
+Total number of states checked is 25466.
+This scan generated 27129 states.
+T=1340209907.984331472
+630:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1658508 states.
+T=1340209924.233856193
+631:
+This game is solveable.
+Total number of states checked is 36.
+This scan generated 336 states.
+T=1340209924.257712840
+632:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1542182 states.
+T=1340209948.660245333
+633:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1504100 states.
+T=1340209968.906384275
+634:
+This game is solveable.
+Total number of states checked is 34612.
+This scan generated 39161 states.
+T=1340209969.296083378
+635:
+This game is solveable.
+Total number of states checked is 85508.
+This scan generated 86018 states.
+T=1340209970.059503502
+636:
+This game is solveable.
+Total number of states checked is 798.
+This scan generated 2133 states.
+T=1340209970.090662157
+637:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1530261 states.
+T=1340209991.221156968
+638:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1527350 states.
+T=1340210007.548107890
+639:
+This game is solveable.
+Total number of states checked is 5066.
+This scan generated 5782 states.
+T=1340210007.613177319
+640:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503541 states.
+T=1340210035.106568309
+641:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502826 states.
+T=1340210058.345596828
+642:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1521440 states.
+T=1340210070.505588940
+643:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1509551 states.
+T=1340210084.020005940
+644:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1852177 states.
+T=1340210107.611626420
+645:
+This game is solveable.
+Total number of states checked is 41387.
+This scan generated 49932 states.
+T=1340210107.931065494
+646:
+This game is solveable.
+Total number of states checked is 29.
+This scan generated 355 states.
+T=1340210107.955709905
+647:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1556673 states.
+T=1340210123.271789805
+648:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1612703 states.
+T=1340210145.329800397
+649:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1507349 states.
+T=1340210169.522332333
+650:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1583937 states.
+T=1340210185.243219757
+651:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1594385 states.
+T=1340210214.786738167
+652:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1981748 states.
+T=1340210228.153822185
+653:
+This game is solveable.
+Total number of states checked is 120652.
+This scan generated 122595 states.
+T=1340210229.976216965
+654:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1583678 states.
+T=1340210254.431322143
+655:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1714330 states.
+T=1340210264.318498496
+656:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1610478 states.
+T=1340210279.152228698
+657:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1561325 states.
+T=1340210303.668608767
+658:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1519894 states.
+T=1340210330.223658899
+659:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1532867 states.
+T=1340210347.111993687
+660:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503898 states.
+T=1340210368.211353369
+661:
+This game is solveable.
+Total number of states checked is 11053.
+This scan generated 11835 states.
+T=1340210368.403419120
+662:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502908 states.
+T=1340210398.352297579
+663:
+This game is solveable.
+Total number of states checked is 1533.
+This scan generated 1965 states.
+T=1340210398.389892259
+664:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1523771 states.
+T=1340210418.834755597
+665:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2465656 states.
+T=1340210445.885880374
+666:
+This game is solveable.
+Total number of states checked is 1165410.
+This scan generated 1166512 states.
+T=1340210454.549025311
+667:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1509354 states.
+T=1340210477.407409990
+668:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503983 states.
+T=1340210500.343908545
+669:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500290 states.
+T=1340210517.131120291
+670:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1815044 states.
+T=1340210536.935206751
+671:
+This game is solveable.
+Total number of states checked is 34721.
+This scan generated 35184 states.
+T=1340210537.362808361
+672:
+This game is solveable.
+Total number of states checked is 86.
+This scan generated 765 states.
+T=1340210537.388233655
+673:
+This game is solveable.
+Total number of states checked is 31.
+This scan generated 401 states.
+T=1340210537.411976608
+674:
+This game is solveable.
+Total number of states checked is 62.
+This scan generated 747 states.
+T=1340210537.436459584
+675:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506984 states.
+T=1340210558.889907305
+676:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1644749 states.
+T=1340210572.747738649
+677:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1531069 states.
+T=1340210594.189097894
+678:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2042510 states.
+T=1340210620.343305136
+679:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1536050 states.
+T=1340210645.346630896
+680:
+This game is solveable.
+Total number of states checked is 60856.
+This scan generated 75381 states.
+T=1340210646.074815295
+681:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1517433 states.
+T=1340210660.138387278
+682:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501582 states.
+T=1340210680.390437916
+683:
+This game is solveable.
+Total number of states checked is 173.
+This scan generated 943 states.
+T=1340210680.415996524
+684:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1513062 states.
+T=1340210692.968373747
+685:
+This game is solveable.
+Total number of states checked is 77676.
+This scan generated 78448 states.
+T=1340210693.901403590
+686:
+This game is solveable.
+Total number of states checked is 15804.
+This scan generated 22204 states.
+T=1340210694.044678732
+687:
+This game is solveable.
+Total number of states checked is 828.
+This scan generated 1218 states.
+T=1340210694.076015790
+688:
+This game is solveable.
+Total number of states checked is 21184.
+This scan generated 21871 states.
+T=1340210694.306756815
+689:
+This game is solveable.
+Total number of states checked is 17842.
+This scan generated 18588 states.
+T=1340210694.463361127
+690:
+This game is solveable.
+Total number of states checked is 248586.
+This scan generated 281187 states.
+T=1340210697.198283060
+691:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1537484 states.
+T=1340210731.657276319
+692:
+This game is solveable.
+Total number of states checked is 722455.
+This scan generated 722979 states.
+T=1340210738.142234100
+693:
+This game is solveable.
+Total number of states checked is 96724.
+This scan generated 97985 states.
+T=1340210739.512681255
+694:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1527371 states.
+T=1340210763.960912557
+695:
+This game is solveable.
+Total number of states checked is 153266.
+This scan generated 155655 states.
+T=1340210765.508970739
+696:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1719540 states.
+T=1340210792.844778775
+697:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1959160 states.
+T=1340210821.367485387
+698:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1565426 states.
+T=1340210843.850998039
+699:
+This game is solveable.
+Total number of states checked is 235010.
+This scan generated 260690 states.
+T=1340210845.671239038
+700:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2589194 states.
+T=1340210870.005560968
+701:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2752719 states.
+T=1340210889.201188617
+702:
+This game is solveable.
+Total number of states checked is 2029.
+This scan generated 3044 states.
+T=1340210889.240199048
+703:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501442 states.
+T=1340210912.349025304
+704:
+This game is solveable.
+Total number of states checked is 705.
+This scan generated 1154 states.
+T=1340210912.376988748
+705:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2160886 states.
+T=1340210937.795797557
+706:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1678459 states.
+T=1340210960.641774249
+707:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1612655 states.
+T=1340210980.620756092
+708:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1679797 states.
+T=1340211010.982484877
+709:
+This game is solveable.
+Total number of states checked is 36012.
+This scan generated 36721 states.
+T=1340211011.247648948
+710:
+This game is solveable.
+Total number of states checked is 174.
+This scan generated 623 states.
+T=1340211011.273630086
+711:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1775676 states.
+T=1340211037.505318003
+712:
+This game is solveable.
+Total number of states checked is 198443.
+This scan generated 199437 states.
+T=1340211039.853099272
+713:
+This game is solveable.
+Total number of states checked is 260552.
+This scan generated 280297 states.
+T=1340211042.721803003
+714:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500994 states.
+T=1340211058.750466175
+715:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1583743 states.
+T=1340211073.685448627
+716:
+This game is solveable.
+Total number of states checked is 1190884.
+This scan generated 1193940 states.
+T=1340211094.296434262
+717:
+This game is solveable.
+Total number of states checked is 365765.
+This scan generated 366600 states.
+T=1340211099.707703799
+718:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2651003 states.
+T=1340211125.123839360
+719:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1520685 states.
+T=1340211155.541446971
+720:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1504419 states.
+T=1340211173.543124466
+721:
+This game is solveable.
+Total number of states checked is 530.
+This scan generated 1018 states.
+T=1340211173.572587034
+722:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1539697 states.
+T=1340211194.559791751
+723:
+This game is solveable.
+Total number of states checked is 16923.
+This scan generated 26862 states.
+T=1340211194.756986739
+724:
+This game is solveable.
+Total number of states checked is 154.
+This scan generated 856 states.
+T=1340211194.783170392
+725:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1534847 states.
+T=1340211212.276764869
+726:
+This game is solveable.
+Total number of states checked is 70973.
+This scan generated 71853 states.
+T=1340211213.016252078
+727:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1546472 states.
+T=1340211235.223572473
+728:
+This game is solveable.
+Total number of states checked is 159180.
+This scan generated 228402 states.
+T=1340211236.893710036
+729:
+This game is solveable.
+Total number of states checked is 46054.
+This scan generated 50438 states.
+T=1340211237.294816162
+730:
+This game is solveable.
+Total number of states checked is 171352.
+This scan generated 173282 states.
+T=1340211239.004900065
+731:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2524533 states.
+T=1340211255.879907976
+732:
+This game is solveable.
+Total number of states checked is 3126.
+This scan generated 4174 states.
+T=1340211255.928106048
+733:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1526407 states.
+T=1340211273.685137096
+734:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1618968 states.
+T=1340211297.844580832
+735:
+This game is solveable.
+Total number of states checked is 385.
+This scan generated 945 states.
+T=1340211297.870897071
+736:
+This game is solveable.
+Total number of states checked is 306.
+This scan generated 920 states.
+T=1340211297.898652273
+737:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1518040 states.
+T=1340211310.945629644
+738:
+This game is solveable.
+Total number of states checked is 71031.
+This scan generated 71295 states.
+T=1340211311.748401660
+739:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1520679 states.
+T=1340211328.731237274
+740:
+This game is solveable.
+Total number of states checked is 25319.
+This scan generated 29301 states.
+T=1340211329.107412686
+741:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1604902 states.
+T=1340211346.913613167
+742:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1505327 states.
+T=1340211367.924565699
+743:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2041189 states.
+T=1340211395.012274348
+744:
+This game is solveable.
+Total number of states checked is 529.
+This scan generated 1839 states.
+T=1340211395.041522213
+745:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1711294 states.
+T=1340211421.025107417
+746:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500803 states.
+T=1340211436.224530944
+747:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1510774 states.
+T=1340211449.134925851
+748:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1550689 states.
+T=1340211471.500593843
+749:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1580992 states.
+T=1340211514.087786065
+750:
+This game is solveable.
+Total number of states checked is 127620.
+This scan generated 141116 states.
+T=1340211515.571316773
+751:
+This game is solveable.
+Total number of states checked is 868647.
+This scan generated 869345 states.
+T=1340211528.605111281
+752:
+This game is solveable.
+Total number of states checked is 3497.
+This scan generated 4069 states.
+T=1340211528.653727517
+753:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1519378 states.
+T=1340211547.764177877
+754:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1968472 states.
+T=1340211565.563748208
+755:
+This game is solveable.
+Total number of states checked is 732192.
+This scan generated 987880 states.
+T=1340211578.209411174
+756:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1589872 states.
+T=1340211603.697096210
+757:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1575993 states.
+T=1340211624.971116145
+758:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 3070825 states.
+T=1340211650.181885600
+759:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1694975 states.
+T=1340211676.666918953
+760:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1521828 states.
+T=1340211705.978827077
+761:
+This game is solveable.
+Total number of states checked is 31960.
+This scan generated 33469 states.
+T=1340211706.319644321
+762:
+This game is solveable.
+Total number of states checked is 328603.
+This scan generated 350703 states.
+T=1340211711.278867134
+763:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1689895 states.
+T=1340211735.226380608
+764:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1513724 states.
+T=1340211754.726856796
+765:
+This game is solveable.
+Total number of states checked is 2482.
+This scan generated 3705 states.
+T=1340211754.782295767
+766:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1570030 states.
+T=1340211769.028569976
+767:
+This game is solveable.
+Total number of states checked is 309.
+This scan generated 622 states.
+T=1340211769.055297067
+768:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1548559 states.
+T=1340211792.975354124
+769:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1554775 states.
+T=1340211810.959196477
+770:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1523271 states.
+T=1340211826.825997505
+771:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501311 states.
+T=1340211842.605090946
+772:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1516553 states.
+T=1340211854.011291175
+773:
+This game is solveable.
+Total number of states checked is 67710.
+This scan generated 106173 states.
+T=1340211854.701997137
+774:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1518179 states.
+T=1340211892.413187279
+775:
+This game is solveable.
+Total number of states checked is 1490.
+This scan generated 2133 states.
+T=1340211892.447724195
+776:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1682672 states.
+T=1340211901.951934692
+777:
+This game is solveable.
+Total number of states checked is 1369694.
+This scan generated 1371187 states.
+T=1340211922.034242649
+778:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1891744 states.
+T=1340211940.135661624
+779:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1555224 states.
+T=1340211953.561955026
+780:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506347 states.
+T=1340211967.566640509
+781:
+This game is solveable.
+Total number of states checked is 1038371.
+This scan generated 1039393 states.
+T=1340211980.075494535
+782:
+This game is solveable.
+Total number of states checked is 829782.
+This scan generated 830826 states.
+T=1340211988.792291284
+783:
+This game is solveable.
+Total number of states checked is 635.
+This scan generated 1173 states.
+T=1340211988.822593452
+784:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1570920 states.
+T=1340212011.393038066
+785:
+This game is solveable.
+Total number of states checked is 1038.
+This scan generated 1478 states.
+T=1340212011.428257541
+786:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1534876 states.
+T=1340212032.985605410
+787:
+This game is solveable.
+Total number of states checked is 178760.
+This scan generated 179388 states.
+T=1340212035.246859881
+788:
+This game is solveable.
+Total number of states checked is 346.
+This scan generated 1179 states.
+T=1340212035.273355130
+789:
+This game is solveable.
+Total number of states checked is 8810.
+This scan generated 9372 states.
+T=1340212035.411544573
+790:
+This game is solveable.
+Total number of states checked is 820753.
+This scan generated 842118 states.
+T=1340212043.974991211
+791:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1625565 states.
+T=1340212072.044215090
+792:
+This game is solveable.
+Total number of states checked is 321.
+This scan generated 884 states.
+T=1340212072.072255653
+793:
+This game is solveable.
+Total number of states checked is 353560.
+This scan generated 354768 states.
+T=1340212076.392243697
+794:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1620677 states.
+T=1340212092.112838539
+795:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1576406 states.
+T=1340212109.128609316
+796:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1873498 states.
+T=1340212130.862398072
+797:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508603 states.
+T=1340212151.661380901
+798:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501707 states.
+T=1340212173.726203149
+799:
+This game is solveable.
+Total number of states checked is 3880.
+This scan generated 4907 states.
+T=1340212173.809757167
+800:
+This game is solveable.
+Total number of states checked is 1078339.
+This scan generated 1081519 states.
+T=1340212185.166805224
+801:
+This game is solveable.
+Total number of states checked is 1279166.
+This scan generated 1281188 states.
+T=1340212200.859526858
+802:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2214332 states.
+T=1340212216.073008339
+803:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1564424 states.
+T=1340212232.311741536
+804:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502737 states.
+T=1340212255.889640587
+805:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508611 states.
+T=1340212272.555506876
+806:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1719231 states.
+T=1340212285.952811766
+807:
+This game is solveable.
+Total number of states checked is 2115.
+This scan generated 2679 states.
+T=1340212286.001226022
+808:
+This game is solveable.
+Total number of states checked is 27629.
+This scan generated 28652 states.
+T=1340212286.241507531
+809:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1848779 states.
+T=1340212310.245505570
+810:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1542280 states.
+T=1340212328.049379335
+811:
+This game is solveable.
+Total number of states checked is 47026.
+This scan generated 47409 states.
+T=1340212328.734373999
+812:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508597 states.
+T=1340212347.044749198
+813:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1536377 states.
+T=1340212364.662486487
+814:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2297949 states.
+T=1340212386.695628177
+815:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1581617 states.
+T=1340212409.566821033
+816:
+This game is solveable.
+Total number of states checked is 759.
+This scan generated 1381 states.
+T=1340212409.595646599
+817:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2097376 states.
+T=1340212428.396046186
+818:
+This game is solveable.
+Total number of states checked is 25013.
+This scan generated 25482 states.
+T=1340212428.666604044
+819:
+This game is solveable.
+Total number of states checked is 268778.
+This scan generated 376200 states.
+T=1340212432.201924529
+820:
+This game is solveable.
+Total number of states checked is 888.
+This scan generated 3736 states.
+T=1340212432.238533668
+821:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1504349 states.
+T=1340212452.092284919
+822:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 3344241 states.
+T=1340212481.621839063
+823:
+This game is solveable.
+Total number of states checked is 1125796.
+This scan generated 1459248 states.
+T=1340212495.598340395
+824:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2135336 states.
+T=1340212523.685267327
+825:
+This game is solveable.
+Total number of states checked is 8202.
+This scan generated 10106 states.
+T=1340212523.784608461
+826:
+This game is solveable.
+Total number of states checked is 181401.
+This scan generated 182971 states.
+T=1340212526.088820725
+827:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502528 states.
+T=1340212549.596027749
+828:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1516726 states.
+T=1340212564.935629965
+829:
+This game is solveable.
+Total number of states checked is 135454.
+This scan generated 161036 states.
+T=1340212566.582604902
+830:
+This game is solveable.
+Total number of states checked is 255515.
+This scan generated 287175 states.
+T=1340212569.731198528
+831:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1514933 states.
+T=1340212580.900392123
+832:
+This game is solveable.
+Total number of states checked is 19058.
+This scan generated 25053 states.
+T=1340212581.080889598
+833:
+This game is solveable.
+Total number of states checked is 76948.
+This scan generated 94858 states.
+T=1340212581.927024672
+834:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1505623 states.
+T=1340212599.745215599
+835:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500700 states.
+T=1340212615.824663326
+836:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1529236 states.
+T=1340212641.007820943
+837:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1628965 states.
+T=1340212650.155225757
+838:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1548556 states.
+T=1340212674.984530420
+839:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1522046 states.
+T=1340212692.023275797
+840:
+This game is solveable.
+Total number of states checked is 5356.
+This scan generated 5770 states.
+T=1340212692.111917923
+841:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2389517 states.
+T=1340212721.680413390
+842:
+This game is solveable.
+Total number of states checked is 220948.
+This scan generated 221933 states.
+T=1340212723.784702431
+843:
+This game is solveable.
+Total number of states checked is 382.
+This scan generated 1429 states.
+T=1340212723.814991854
+844:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1896637 states.
+T=1340212745.973245502
+845:
+This game is solveable.
+Total number of states checked is 9750.
+This scan generated 10337 states.
+T=1340212746.103884176
+846:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1600304 states.
+T=1340212767.309853693
+847:
+This game is solveable.
+Total number of states checked is 21364.
+This scan generated 22541 states.
+T=1340212767.470461560
+848:
+This game is solveable.
+Total number of states checked is 12282.
+This scan generated 12855 states.
+T=1340212767.674227216
+849:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501945 states.
+T=1340212786.406483982
+850:
+This game is solveable.
+Total number of states checked is 3891.
+This scan generated 4364 states.
+T=1340212786.482868376
+851:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1643137 states.
+T=1340212808.809666715
+852:
+This game is solveable.
+Total number of states checked is 26976.
+This scan generated 29599 states.
+T=1340212809.036144267
+853:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1531783 states.
+T=1340212836.146261191
+854:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1709157 states.
+T=1340212853.614906477
+855:
+This game is solveable.
+Total number of states checked is 1046748.
+This scan generated 1242632 states.
+T=1340212865.171040183
+856:
+This game is solveable.
+Total number of states checked is 1242173.
+This scan generated 1242874 states.
+T=1340212881.658032025
+857:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1860846 states.
+T=1340212895.275883476
+858:
+This game is solveable.
+Total number of states checked is 1572.
+This scan generated 2112 states.
+T=1340212895.317810082
+859:
+This game is solveable.
+Total number of states checked is 50174.
+This scan generated 51248 states.
+T=1340212895.909158414
+860:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1935331 states.
+T=1340212914.821289150
+861:
+This game is solveable.
+Total number of states checked is 1493577.
+This scan generated 1496072 states.
+T=1340212946.468526048
+862:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502836 states.
+T=1340212968.045773912
+863:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1652485 states.
+T=1340212985.763693425
+864:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1516366 states.
+T=1340212995.669353143
+865:
+This game is solveable.
+Total number of states checked is 59175.
+This scan generated 59579 states.
+T=1340212996.566037592
+866:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1588748 states.
+T=1340213012.349506647
+867:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1547743 states.
+T=1340213029.465458054
+868:
+This game is solveable.
+Total number of states checked is 24053.
+This scan generated 24650 states.
+T=1340213030.024734738
+869:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1711282 states.
+T=1340213046.585630364
+870:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1521986 states.
+T=1340213064.614053732
+871:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1925966 states.
+T=1340213077.257899240
+872:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1613309 states.
+T=1340213100.556139746
+873:
+This game is solveable.
+Total number of states checked is 6466.
+This scan generated 6936 states.
+T=1340213100.642453122
+874:
+This game is solveable.
+Total number of states checked is 8102.
+This scan generated 8587 states.
+T=1340213100.725733204
+875:
+This game is solveable.
+Total number of states checked is 381583.
+This scan generated 382993 states.
+T=1340213104.093742933
+876:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1700908 states.
+T=1340213116.645529773
+877:
+This game is solveable.
+Total number of states checked is 366731.
+This scan generated 376016 states.
+T=1340213121.372533719
+878:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1541545 states.
+T=1340213160.690911986
+879:
+This game is solveable.
+Total number of states checked is 258.
+This scan generated 1243 states.
+T=1340213160.718063759
+880:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1651584 states.
+T=1340213183.349768402
+881:
+This game is solveable.
+Total number of states checked is 8116.
+This scan generated 11010 states.
+T=1340213183.484025684
+882:
+This game is solveable.
+Total number of states checked is 123144.
+This scan generated 123465 states.
+T=1340213184.292152175
+883:
+This game is solveable.
+Total number of states checked is 400.
+This scan generated 847 states.
+T=1340213184.320808322
+884:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1917242 states.
+T=1340213200.343125431
+885:
+This game is solveable.
+Total number of states checked is 150659.
+This scan generated 178897 states.
+T=1340213201.818465987
+886:
+This game is solveable.
+Total number of states checked is 6627.
+This scan generated 7024 states.
+T=1340213201.889713698
+887:
+This game is solveable.
+Total number of states checked is 1049351.
+This scan generated 1228665 states.
+T=1340213222.957622313
+888:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1716550 states.
+T=1340213240.445467461
+889:
+This game is solveable.
+Total number of states checked is 333141.
+This scan generated 419228 states.
+T=1340213244.980770129
+890:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503832 states.
+T=1340213264.117359922
+891:
+This game is solveable.
+Total number of states checked is 1296934.
+This scan generated 1321037 states.
+T=1340213276.560375897
+892:
+This game is solveable.
+Total number of states checked is 2986.
+This scan generated 4030 states.
+T=1340213276.622432817
+893:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501266 states.
+T=1340213287.319258096
+894:
+This game is solveable.
+Total number of states checked is 32.
+This scan generated 314 states.
+T=1340213287.343282340
+895:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1626071 states.
+T=1340213303.297375778
+896:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1506158 states.
+T=1340213326.841703035
+897:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1518026 states.
+T=1340213347.006712721
+898:
+This game is solveable.
+Total number of states checked is 139858.
+This scan generated 141871 states.
+T=1340213348.045000271
+899:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2280873 states.
+T=1340213372.583936290
+900:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1534665 states.
+T=1340213387.562532463
+901:
+This game is solveable.
+Total number of states checked is 83885.
+This scan generated 84784 states.
+T=1340213388.602386750
+902:
+This game is solveable.
+Total number of states checked is 195.
+This scan generated 469 states.
+T=1340213388.627271113
+903:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1507940 states.
+T=1340213412.063382533
+904:
+This game is solveable.
+Total number of states checked is 48787.
+This scan generated 49640 states.
+T=1340213412.426912490
+905:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1672143 states.
+T=1340213435.596463638
+906:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2386845 states.
+T=1340213460.126899668
+907:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1502167 states.
+T=1340213469.444562320
+908:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1563086 states.
+T=1340213488.683009918
+909:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1787078 states.
+T=1340213510.953398738
+910:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2937830 states.
+T=1340213527.845455651
+911:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1937483 states.
+T=1340213542.020646786
+912:
+This game is solveable.
+Total number of states checked is 1035207.
+This scan generated 1056824 states.
+T=1340213559.330792527
+913:
+This game is solveable.
+Total number of states checked is 95147.
+This scan generated 96437 states.
+T=1340213560.690920494
+914:
+This game is solveable.
+Total number of states checked is 159731.
+This scan generated 160439 states.
+T=1340213562.576101075
+915:
+This game is solveable.
+Total number of states checked is 205106.
+This scan generated 205874 states.
+T=1340213565.022462827
+916:
+This game is solveable.
+Total number of states checked is 10081.
+This scan generated 10457 states.
+T=1340213565.108471968
+917:
+This game is solveable.
+Total number of states checked is 248614.
+This scan generated 250429 states.
+T=1340213567.312316405
+918:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2214292 states.
+T=1340213595.347300845
+919:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1627588 states.
+T=1340213625.961116471
+920:
+This game is solveable.
+Total number of states checked is 39316.
+This scan generated 40367 states.
+T=1340213626.578113344
+921:
+This game is solveable.
+Total number of states checked is 23439.
+This scan generated 23811 states.
+T=1340213626.824989991
+922:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1679417 states.
+T=1340213651.078617784
+923:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1532142 states.
+T=1340213671.581287364
+924:
+This game is solveable.
+Total number of states checked is 15873.
+This scan generated 16659 states.
+T=1340213671.740914661
+925:
+This game is solveable.
+Total number of states checked is 387431.
+This scan generated 388425 states.
+T=1340213675.433835231
+926:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2040722 states.
+T=1340213695.873547357
+927:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500462 states.
+T=1340213712.603734906
+928:
+This game is solveable.
+Total number of states checked is 450508.
+This scan generated 487425 states.
+T=1340213718.300388748
+929:
+This game is solveable.
+Total number of states checked is 1280097.
+This scan generated 1280679 states.
+T=1340213738.170107751
+930:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1570296 states.
+T=1340213761.360324708
+931:
+This game is solveable.
+Total number of states checked is 1212786.
+This scan generated 1223225 states.
+T=1340213777.065622767
+932:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2275202 states.
+T=1340213796.999752758
+933:
+This game is solveable.
+Total number of states checked is 3860.
+This scan generated 4563 states.
+T=1340213797.059679572
+934:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1606203 states.
+T=1340213815.837298556
+935:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1534977 states.
+T=1340213829.856211882
+936:
+This game is solveable.
+Total number of states checked is 432.
+This scan generated 954 states.
+T=1340213829.883952541
+937:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1629269 states.
+T=1340213859.077639546
+938:
+This game is solveable.
+Total number of states checked is 278740.
+This scan generated 279247 states.
+T=1340213864.284142495
+939:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1505715 states.
+T=1340213886.788470171
+940:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501864 states.
+T=1340213900.370979287
+941:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1505622 states.
+T=1340213922.112074419
+942:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1538830 states.
+T=1340213932.808576303
+943:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1500938 states.
+T=1340213949.204001090
+944:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2310515 states.
+T=1340213971.567895442
+945:
+This game is solveable.
+Total number of states checked is 918827.
+This scan generated 919401 states.
+T=1340213981.141497125
+946:
+This game is solveable.
+Total number of states checked is 20406.
+This scan generated 26028 states.
+T=1340213981.434395448
+947:
+This game is solveable.
+Total number of states checked is 684696.
+This scan generated 690944 states.
+T=1340213991.196019699
+948:
+This game is solveable.
+Total number of states checked is 469.
+This scan generated 893 states.
+T=1340213991.224712051
+949:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1533139 states.
+T=1340214008.515465304
+950:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1553000 states.
+T=1340214027.090235392
+951:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1538464 states.
+T=1340214038.279451429
+952:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1536121 states.
+T=1340214056.306579044
+953:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2426237 states.
+T=1340214073.686902181
+954:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2219005 states.
+T=1340214087.592075741
+955:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501059 states.
+T=1340214099.133745005
+956:
+This game is solveable.
+Total number of states checked is 11834.
+This scan generated 13196 states.
+T=1340214099.291017289
+957:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1581334 states.
+T=1340214121.831887994
+958:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1873935 states.
+T=1340214152.219651336
+959:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1786100 states.
+T=1340214173.984576639
+960:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1897310 states.
+T=1340214193.249642060
+961:
+This game is solveable.
+Total number of states checked is 5671.
+This scan generated 6075 states.
+T=1340214193.355553005
+962:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503893 states.
+T=1340214209.398896514
+963:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501473 states.
+T=1340214220.985743843
+964:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1904149 states.
+T=1340214238.048252552
+965:
+This game is solveable.
+Total number of states checked is 5159.
+This scan generated 6097 states.
+T=1340214238.106524217
+966:
+This game is solveable.
+Total number of states checked is 11126.
+This scan generated 11657 states.
+T=1340214238.204882033
+967:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1547726 states.
+T=1340214252.595204339
+968:
+This game is solveable.
+Total number of states checked is 23383.
+This scan generated 25536 states.
+T=1340214252.839564017
+969:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1539518 states.
+T=1340214278.479560600
+970:
+This game is solveable.
+Total number of states checked is 54326.
+This scan generated 57154 states.
+T=1340214279.071044848
+971:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1586471 states.
+T=1340214295.149981172
+972:
+This game is solveable.
+Total number of states checked is 10543.
+This scan generated 11124 states.
+T=1340214295.268828757
+973:
+This game is solveable.
+Total number of states checked is 1463648.
+This scan generated 1466025 states.
+T=1340214320.832869537
+974:
+This game is solveable.
+Total number of states checked is 176454.
+This scan generated 181653 states.
+T=1340214322.946831091
+975:
+This game is solveable.
+Total number of states checked is 1043478.
+This scan generated 1044295 states.
+T=1340214333.680001935
+976:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2105457 states.
+T=1340214354.599161866
+977:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1528591 states.
+T=1340214370.064635318
+978:
+This game is solveable.
+Total number of states checked is 757.
+This scan generated 1209 states.
+T=1340214370.093994103
+979:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1509498 states.
+T=1340214395.733617475
+980:
+This game is solveable.
+Total number of states checked is 1045.
+This scan generated 1595 states.
+T=1340214395.764093018
+981:
+This game is solveable.
+Total number of states checked is 886037.
+This scan generated 898452 states.
+T=1340214402.909296957
+982:
+This game is solveable.
+Total number of states checked is 246.
+This scan generated 1225 states.
+T=1340214402.937919538
+983:
+This game is solveable.
+Total number of states checked is 230063.
+This scan generated 252471 states.
+T=1340214405.771699820
+984:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1619990 states.
+T=1340214417.210163447
+985:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508075 states.
+T=1340214432.996075159
+986:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1501301 states.
+T=1340214457.314195837
+987:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1531916 states.
+T=1340214468.267896030
+988:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1503642 states.
+T=1340214486.313794072
+989:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1523988 states.
+T=1340214500.852641405
+990:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1515058 states.
+T=1340214518.736634926
+991:
+This game is solveable.
+Total number of states checked is 54335.
+This scan generated 55970 states.
+T=1340214519.629531379
+992:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1520230 states.
+T=1340214538.691856152
+993:
+This game is solveable.
+Total number of states checked is 7693.
+This scan generated 8949 states.
+T=1340214538.786612015
+994:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1958348 states.
+T=1340214555.827098313
+995:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1508790 states.
+T=1340214571.500186898
+996:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1708694 states.
+T=1340214592.731516274
+997:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1511370 states.
+T=1340214603.251241711
+998:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 2099188 states.
+T=1340214621.022729598
+999:
+This game is solveable.
+Total number of states checked is 234141.
+This scan generated 241310 states.
+T=1340214624.329467466
+1000:
+Iterations count exceeded.
+Total number of states checked is 1500000.
+This scan generated 1584424 states.
+T=1340214640.761110496

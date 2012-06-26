@@ -1,0 +1,8 @@
+IDX=238
+Verdict: Intractable ; Iters: 100000000 ; Length: 0
+IDX=417
+Verdict: Intractable ; Iters: 100000000 ; Length: 0
+IDX=477
+Verdict: Unsolved ; Iters: 2245184 ; Length: 0
+IDX=952
+Verdict: Solved ; Iters: 17943372 ; Length: 122
