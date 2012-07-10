@@ -1,0 +1,39 @@
+=encoding utf8
+
+=head1 Freecell Solver’s Results for Solving Baker’s Dozen Deals.
+
+Here are some instructions on how to get more information:
+
+C<fcs-bakers-dozen-1-to-1K/BAKERS_DOZEN_RUN.bash> runs the solver and generates
+the following files:
+
+=over 4
+
+=item * 0123456789-sp-r-tf-dump.txt
+
+=item * 0123456789-dump.txt
+
+=item * 01ABCDE-dump.txt
+
+=item * 01ABCDE-sp-r-tf-dump.txt
+
+=item * befs-0123456789-dump.txt
+
+=item * befs-01ABCDE-dump.txt
+
+=back
+
+There are two copies of these filenames, one for the solver after the prune
+(in the main directory) and one for beforehand in
+C<solver-before-prune-results>.
+
+=head2 Analysis.
+
+From within bash or a compatible shell run C<. ANALYZE.bash>. Then the
+function C<table> will print a table of the status of the runs.
+
+One can run for example:
+
+    table | grep -v S | grep -v U | perl -lane 'print $F[0]'
+
+In order to get a list of all intractable deals.
