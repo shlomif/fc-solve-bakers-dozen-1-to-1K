@@ -37,3 +37,11 @@ One can run for example:
     table | grep -v S | grep -v U | perl -lane 'print $F[0]'
 
 In order to get a list of all intractable deals.
+
+=head2 More Information.
+
+For now, more information is available at this link:
+
+L<http://tech.groups.yahoo.com/group/fc-solve-discuss/message/1128>
+
+.
